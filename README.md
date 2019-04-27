@@ -12,4 +12,4 @@ Git learning repository - conflict line
 8. Do change on a common file on master branch
 9. Merge dev changes to master and resolve conflict
 
-This is master branch line
+This is development branch line
