@@ -1,5 +1,5 @@
 # git101
-Git learning repository
+Git learning repository - conflict line
 
 
 1. Create Git repository with README
