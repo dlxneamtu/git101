@@ -10,4 +10,4 @@ Git learning repository
 6. Add files and modify existing file and push to development branch
 7. Switch backc(checkout) to master branch and check that dev files are gone
 8. Do change on a common file on master branch
-8. Merge dev changes to master and resolve conflict
+9. Merge dev changes to master and resolve conflict
